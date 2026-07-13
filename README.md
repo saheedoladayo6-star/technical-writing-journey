@@ -19,3 +19,16 @@ This repository documents my journey as i learn technical writing,Markdown,Git,G
 
 ## Goal
 My goal is to become a professional technical writer by building documentation projects and improving my writing every day.
+
+## About Me
+Hi, i'm Saheed. I'm an aspiring technical writer learning Markdown, Git, GitHub, and documentation best practises.
+
+## Projects 
+- Markdown Basics
+- How to install Git
+- What is Git 
+- How to create a GitHub account 
+- **How to use Visual Studio Code*
+
+## Contact
+GitHub: https://github,com/saheedoladayo6-star
