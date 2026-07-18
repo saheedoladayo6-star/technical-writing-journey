@@ -31,4 +31,8 @@ Hi, i'm Saheed. I'm an aspiring technical writer learning Markdown, Git, GitHub,
 - How to Use Visual Studio Code
 
 ## Contact
-GitHub: https://github.com/saheedoladayo6-star 
+GitHub: https://github.com/saheedoladayo6-star
+
+## Resources
+- [ GitHub]{https://github.com}
+- [ Visual Studio Code]{https://code.visualstudio.com}
