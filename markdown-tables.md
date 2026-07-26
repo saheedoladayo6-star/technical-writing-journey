@@ -1,18 +1,20 @@
 # Markdown Tables
 ## Introduction 
-*Tables organize information into rows and columns, making them easier to read.*
+Markdown tables help organize information into rows and columns, making them easier to read.
 ## Syntax
 ```markdown
 | Command | Description |
 |---------|-------------|
+| git init | Creates a new repository |
 | git status | Shows the repository status |
 | git add . | Stages all changes |
 | git commit -m "message" | Saves changes |
 | git push | Uploads changes to GitHub |
 ```
 ## Example
-| Command | Purpose|
-|---------|--------|
+| Command | Purpose |
+|---------|---------|
+| git init | Creates a new Git repository |
 | git status | Check changed files |
 | git add . | Stage files |
 | git commit -m "Initial commit" | Create a commit |
