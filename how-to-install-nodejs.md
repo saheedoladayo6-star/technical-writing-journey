@@ -25,7 +25,7 @@ You should see the installed Node.js version.
 ## Conclusion 
 Node.js is now installed and ready to use.
 
-## Troubleshooting
+### Troubleshooting
 If the `node -v` command is not recognized:
 - Restart your computer.
 - Reopen Command Prompt.
