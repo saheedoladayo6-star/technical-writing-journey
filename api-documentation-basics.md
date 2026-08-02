@@ -28,3 +28,8 @@ Host: example.com
 | 500 | Internal server error |
 ## Conclusion 
 Good API documentation helps developers understand and use API correctly.
+## Tips
+- Use clear and simple language.
+- Include request and response example.
+- Explain status codes.
+- Keep the documentation up to date.
