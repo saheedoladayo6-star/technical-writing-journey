@@ -26,3 +26,12 @@ Returns the details of the requested user.
 The requested user does not exist.
 #### 400 Bad Request
 The user ID provided is invalid.
+## Query Parameters
+Query parameters allow you to filter or customize the user request.
+| Parameter | Type | Description |
+|-----------|------|-------------|
+| `include_email` | Boolean | Determines whether the user's email is included in the response.|
+### Example Request
+```bash
+curl
+"https://api.example.com/users/123?include_email=true"
